@@ -1,5 +1,4 @@
 # shodan_extractor
-fetch ip from first and second shodan pages
 
 This script, given a query for each port, each organization, and each city, allows you to extract IPs from the first and second pages of Shodan.
 
