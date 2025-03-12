@@ -6,6 +6,8 @@ Configuration: enter the query found in the Shodan search URL (parameter query="
 
 Usage example: python -u shodan_extractor.py | tee out.txt
 
+The result may contain duplicates.
+
 This script was created using an LLM, without any focus on optimization or similar concerns, take it as it is.
 
 It is for demonstration and educational purposes only. I do not take responsibility for any illegal use.
